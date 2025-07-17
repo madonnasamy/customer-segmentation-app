@@ -24,3 +24,8 @@ If running locally:
 
 ```bash
 streamlit run app.py
+
+🎯 Customer Segmentation Web App  
+Built an interactive web app using Streamlit to segment customers based on unsupervised learning algorithms (KMeans, GMM, DBSCAN).  
+**Tech:** Python, Pandas, Scikit-learn, Streamlit  
+🔗 [Live Demo](https://customer-segmentation-app-jgydkjeg6twaik9cu2bc2n.streamlit.app/) | [GitHub](https://github.com/madonnasamy/customer-segmentation-app)
